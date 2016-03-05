@@ -1,1 +1,2 @@
-First reflection for lesson 3?
+When would you want to use a remote repository rather than keeping all your work local?
+  when I want to share the repository for colloboration
