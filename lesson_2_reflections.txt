@@ -17,3 +17,10 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	result is another commit into the checked out branch with the merged codes
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	sometimes it could be possible for git yo do autamatic merge wich is nice.
+	sometimes it's hard to determent what to keep what delete becase 
+	after branch created same parts of the application was changed simultaniulsy.
+	so it makes sense to review changes manually before merging - in this case
+	git shows it as a conflict
